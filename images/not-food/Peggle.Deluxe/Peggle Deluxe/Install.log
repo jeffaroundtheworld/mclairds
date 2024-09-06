@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<InstallLog>
+	<InstallName>Peggle Deluxe 1.0</InstallName>
+	<AppDataSuffix>PopCap Games\Peggle</AppDataSuffix>
+	<UninstallDeltree>C:\Program Files\PopCap Games\Peggle Deluxe</UninstallDeltree>
+	<UninstallDeltree>%ProgramDataFolder%</UninstallDeltree>
+	<UninstallDeltree>C:\Documents and Settings\All Users\Start Menu\Programs\PopCap Games\Peggle Deluxe</UninstallDeltree>
+	<UserDirectory>%ProgramDataFolder%\userdata</UserDirectory>
+	<UserDirectory>C:\Program Files\PopCap Games\Peggle Deluxe\userdata</UserDirectory>
+	<UninstallDelRegKey>HKCU\SOFTWARE\PopCap\Peggle</UninstallDelRegKey>
+	<UninstallDelRegKey>HKLM\SOFTWARE\PopCap\Peggle</UninstallDelRegKey>
+	<UserRegKey>HKCU\SOFTWARE\PopCap\Peggle</UserRegKey>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\bass.dll</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\drm.xml</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\drm.xml.sig</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\fonts\Arial10.txt</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\fonts\Arial10Bold.txt</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\fonts\Arial12Bold.txt</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\fonts\Arial9.txt</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\fonts\Arial9Bold.txt</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\fonts\_Arial10.png</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\fonts\_Arial10Bold.png</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\fonts\_Arial12Bold.png</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\fonts\_Arial9.png</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\fonts\_Arial9Bold.png</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\help.txt</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\images\bbb.gif</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\images\btn_buynow.gif</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\images\btn_buynow2.gif</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\images\btn_cancel.gif</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\images\btn_cancel2.gif</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\images\btn_close.PNG</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\images\btn_close2.PNG</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\images\btn_continue.gif</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\images\btn_continue2.gif</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\images\btn_finish.gif</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\images\btn_finish2.gif</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\images\btn_help.gif</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\images\btn_help2.gif</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\images\btn_help_main.gif</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\images\btn_help_main2.gif</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\images\btn_mask.gif</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\images\btn_play.gif</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\images\btn_play2.gif</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\images\btn_play3.gif</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\images\btn_privacy.gif</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\images\btn_privacy2.gif</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\images\btn_privacy_main.gif</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\images\btn_privacy_main2.gif</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\images\btn_register.gif</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\images\btn_register2.gif</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\images\btn_retry.gif</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\images\btn_retry2.gif</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\images\btn_security.gif</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\images\btn_security2.gif</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\images\btn_security_main.gif</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\images\btn_security_main2.gif</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\images\btn_sendreceipt.gif</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\images\btn_sendreceipt2.gif</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\images\buyitnowfor.gif</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\images\buyitnowfor_.gif</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\images\ecomm_wrapper_background.jpg</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\images\ecomm_wrapper_background_centered.jpg</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\images\icon_complete.jpg</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\images\icon_connected.jpg</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\images\icon_connecting.jpg</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\images\ssframe.png</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\images\textlet.png</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\privacy.txt</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\scripts\Bullets.luc</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\scripts\ClassLink.luc</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\scripts\Common.luc</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\scripts\Consts.luc</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\scripts\Default.luc</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\scripts\DProps.luc</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\scripts\DRMApp.luc</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\scripts\DRMButtonWidget.luc</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\scripts\Game.luc</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\scripts\Layout.luc</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\scripts\LuaApp.luc</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\scripts\LuaCommonWidgets.luc</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\scripts\LuaWidget.luc</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\scripts\main.luc</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\scripts\Screen.luc</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\scripts\TextletWidget.luc</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\common\security.txt</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\custom\drm.xml</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\custom\drm.xml.sig</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\custom\images\bullet1.jpg</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\custom\images\bullet1_.gif</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\custom\images\bullet2.jpg</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\custom\images\bullet2_.gif</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\custom\images\bullet3.jpg</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\custom\images\bullet3_.gif</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\custom\images\bullet4.jpg</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\custom\images\bullet4_.gif</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\esrb.gif</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\game.jpg</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\game_.gif</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\logo.jpg</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\logo_.gif</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\price.gif</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drm\price_.gif</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\drmss.jpg</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\j2k-codec.dll</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\license.txt</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\main.pak</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\music\odetojoy.ogg</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\music\opening.ogg</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\music\PeggleBeats.mo3</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\Peggle.exe</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\PopUninstall.exe</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\properties\partner.xml</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\properties\partner.xml.sig</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\properties\partner_logo.jpg</File>
+	<File>C:\Program Files\PopCap Games\Peggle Deluxe\readme.html</File>
+	<GameExplorerGuid>{C0DA3BA3-BED9-41F3-96CC-840B45F9AE03}</GameExplorerGuid>
+	<UninstallDeltree>C:\Documents and Settings\All Users\Application Data\Microsoft\Windows\GameExplorer\{C0DA3BA3-BED9-41F3-96CC-840B45F9AE03}</UninstallDeltree>
+	<UninstallDelRegKey>HKLM\Software\Microsoft\Windows\CurrentVersion\GameUX\GamesToFindOnWindowsUpgrade\{C0DA3BA3-BED9-41F3-96CC-840B45F9AE03}</UninstallDelRegKey>
+	<Registry>
+		<RegValue>
+			<Key>HKLM\SOFTWARE\PopCap\Peggle</Key>
+			<Name>InstallPath</Name>
+		</RegValue>
+		<RegValue>
+			<Key>HKLM\SOFTWARE\PopCap\Peggle</Key>
+			<Name>RegisterLink</Name>
+		</RegValue>
+		<RegValue>
+			<Key>HKLM\SOFTWARE\PopCap\Peggle</Key>
+			<Name>DownloadId</Name>
+		</RegValue>
+		<RegValue>
+			<Key>HKLM\SOFTWARE\PopCap\Peggle</Key>
+			<Name>PurchaseId</Name>
+		</RegValue>
+		<RegValue>
+			<Key>HKCU\SOFTWARE\PopCap\Peggle</Key>
+			<Name>RegCode</Name>
+		</RegValue>
+		<RegValue>
+			<Key>HKCU\SOFTWARE\PopCap\Peggle</Key>
+			<Name>RegName</Name>
+		</RegValue>
+	</Registry>
+	<UninstallDelRegKey>HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Peggle Deluxe 1.0</UninstallDelRegKey>
+	<File>%CommonProgramGroup%\%InstallGroup%\Peggle Deluxe\Play Peggle Deluxe.lnk</File>
+	<File>%CommonProgramGroup%\%InstallGroup%\Peggle Deluxe\View Readme.lnk</File>
+	<File>%CommonProgramGroup%\%InstallGroup%\Peggle Deluxe\Uninstall Peggle Deluxe.lnk</File>
+	<File>%CommonProgramGroup%\%InstallGroup%\Peggle Deluxe\Visit PopCap.com.url</File>
+	<File>%CommonDesktop%\Peggle Deluxe.lnk</File>
+	<File>#HasDirectoriesExcept C:\Program Files\PopCap Games,Peggle Deluxe, | %CommonDesktop%\Play More Great Games!.url</File>
+	<File>#HasDirectoriesExcept C:\Program Files\PopCap Games,Peggle Deluxe, | C:\Program Files\PopCap Games\moregames.ico</File>
+	<File>C:\Documents and Settings\All Users\Application Data\Microsoft\Windows\GameExplorer\{C0DA3BA3-BED9-41F3-96CC-840B45F9AE03}\PlayTasks\0\Play.lnk</File>
+</InstallLog>

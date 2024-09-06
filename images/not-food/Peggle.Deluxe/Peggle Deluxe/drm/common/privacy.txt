@@ -1,0 +1,234 @@
+^:ACF1^^CC3300^PRIVACY NOTICE^000000^^:ALF0^
+
+Last updated: October 21, 2005
+
+PopCap Games knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. ^:F1^By visiting popcap.com, you are accepting the practices described in this Privacy Notice.^:F0^
+
+^:F1^Terms of Use
+
+^:ALF0^Please review our Terms of Use at
+^:Lhttp://www.popcap.com/terms.php#terms^http://www.popcap.com/terms.php#terms^:^
+which also governs your visit to popcap.com.
+
+^:F1^What Personal Information About Customers Does popcap.com Gather?^:F0^
+
+The information we learn from customers helps us personalize and continually improve your shopping experience at popcap.com. Here are the types of information we gather. 
+
+Information You Give Us: We receive and store any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you. 
+
+Automatic Information: We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses popcap.com. A number of companies offer utilities designed to help you visit Web sites anonymously. Although we will not be able to provide you with a personalized experience at popcap.com if we cannot recognize you, we want you to be aware that these tools exist. 
+
+E-mail Communications: To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from popcap.com if your computer supports such capabilities. We may also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please visit
+^:Lhttp://www.popcap.com/unsubscribe.php^http://www.popcap.com/unsubscribe.php^:^
+or 
+^:Lhttp://www.popcap.com/helpform_other.php^http://www.popcap.com/helpform_other.php^:^.
+
+Information from Other Sources: We might receive information about you from other sources and add it to our account information. 
+
+What About Cookies?
+
+Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as storage of items in your Shopping Cart between visits. 
+
+The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of popcap.com's coolest features, and we recommend that you leave them turned on. 
+
+Information about our customers is an important part of our business, and we are not in the business of selling it to others. 
+
+Member Accounts, Passwords, and Invitations
+
+If you choose to register to play our online multiplayer games, you will need to supply a Member ID and a password to gain access. You are responsible for keeping the confidentiality of your Member ID and password. PopCap representatives will never ask you for your password.
+
+^:F1^Does popcap.com Share the Information It Receives?^:F0^
+
+Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with subsidiaries popcap.com, Inc. controls that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice. 
+
+Agents: We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. 
+
+Promotional Offers: Sometimes we send offers to selected groups of popcap.com customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please contact PopCap Customer Support at
+^:Lhttp://www.popcap.com/helpform_other.php^http://www.popcap.com/helpform_other.php^:^
+
+Business Transfers: As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that PopCap Games, Inc., or substantially all of its assets are acquired, customer information will of course be one of the transferred assets. 
+
+Protection of popcap.com and Others: We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Conditions of Use and other agreements; or protect the rights, property, or safety of popcap.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice.
+
+With Your Consent: Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.
+ 
+^:F1^How Secure Is Information About Me?^:F0^
+
+We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. 
+
+We will reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
+
+Any information we collect will be securely stored and processed in a database that resides in either the United States or Ireland.
+
+It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. 
+
+^:F1^Which Information Can I Access?^:F0^
+
+popcap.com will give you access to a broad range of information about your account and your interactions with popcap.com for the limited purpose of viewing and, in certain cases, updating that information as our Web site evolves.
+
+^:F1^What Choices Do I Have? ^:F0^
+
+As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of specific popcap.com features.
+
+If you do not want to receive e-mail or other mail from us, please visit
+^:Lhttp://www.popcap.com/unsubscribe.php^http://www.popcap.com/unsubscribe.php^:^
+
+You may also send mail to:
+
+PopCap Games
+Attention: Opt-Out
+2401 4th Avenue, Suite 810
+Seattle, WA 98121
+
+(If you do not want to receive Conditions of Use and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of popcap.com, and it is your responsibility to review them for changes.)
+
+The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, you will not be able to use such important features as the popcap.com store if you do not use cookies. 
+
+The Federal Trade Commission provides useful information about online privacy on its own Web site, Site Seeing on the Internet at:
+^:Lhttp://www.ftc.gov/bcp/conline/pubs/online/sitesee.htm^http://www.ftc.gov/bcp/conline/pubs/online/sitesee.htm^:^
+
+^:F1^Children^:F0^
+
+popcap.com does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use popcap.com only with the involvement of a parent or guardian. 
+
+^:F1^Conditions of Use, Notices, and Revisions^:F0^
+
+If you choose to visit popcap.com, your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of Washington. If you have any concern about privacy at popcap.com, please contact us with a thorough description, and we will try to resolve it. 
+
+Our business changes constantly, and our Privacy Notice and the Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of the persons affected. 
+
+^:F1^Third Party Sites^:F0^
+
+Other companies that advertise on our site may collect information about you when you view or click on their site or logos. popcap.com does not control what information third parties gather once you leave the popcap.com web site. You are encouraged to check the privacy policies of these sites.
+
+^:F1^Third Party Advertising^:F0^
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
+
+^:F1^Third Party Cookies^:F0^
+
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+
+^:F1^TERMS OF USE^:F0^
+
+Last updated: October 21, 2005
+
+Welcome to popcap.com. PopCap Games, popcap.com, and its affiliates provide their services to you subject to the following conditions. If you visit or shop at popcap.com, you accept these conditions. Please read them carefully. In addition, when you visit, use, or purchase any current or future popcap.com service or product from any business affiliated with popcap.com, whether or not included in the popcap.com Web site, you also will be subject to the guidelines and conditions applicable to such service or business. 
+
+^:F1^PRIVACY^:F0^
+
+Please review our Privacy Notice at
+^:Lhttp://www.popcap.com/terms.php#privacy^http://www.popcap.com/terms.php#privacy^:^
+which also governs your visit to popcap.com, to understand our practices. 
+
+^:F1^ELECTRONIC COMMUNICATIONS^:F0^
+
+When you visit popcap.com or send e-mails to us, you are communicating with us electronically. You consent to receive communications from us electronically. We will communicate with you by e-mail or by posting notices on this site. You agree that all agreements, notices, disclosures and other communications that we provide to you electronically satisfy any legal requirement that such communications be in writing. 
+
+^:F1^COPYRIGHT^:F0^
+
+All content included on this site, such as text, graphics, logos, button icons, images, audio clips, digital downloads, data compilations, and software, is the property of PopCap Games, Inc., or its content suppliers and is protected by United States and international copyright laws. The compilation of all content on this site is the exclusive property of PopCap Games and is protected by U.S. and international copyright laws. All software used on this site is the property of PopCap Games or its software suppliers and protected by United States and international copyright laws. 
+
+^:F1^TRADEMARKS^:F0^
+
+ALCHEMY, BEJEWELED, BIG MONEY, BOOKWORM, LUCKY PENNY, MARS NEEDS COWS, MUMMY MAZE, PSYCHOBABBLE, ZUMA and other marks indicated on our site are registered trademarks of PopCap Games, Inc., or its subsidiaries, in the United States and other countries. POPCAP, POPCAP GAMES, POPCAP GAMES & Design, ASTROPOP, ATOMIC POKER, ATOMICA, CANDY TRAIN, CHUZZLE, DIAMOND MINE, DYNOMITE, HEAVY WEAPON, NOAH’S ARK, SEVEN SEAS, TYPER SHARK, and other popcap.com graphics, logos, page headers, button icons, scripts, and service names are trademarks or trade dress of PopCap Games, Inc., or its subsidiaries. PopCap Games’ trademarks and trade dress may not be used in connection with any product or service that is not PopCap Games, in any manner that is likely to cause confusion among customers, or in any manner that disparages or discredits PopCap Games or popcap.com. All other trademarks not owned by PopCap Games or its subsidiaries that appear on this site are the property of their respective owners, who may or may not be affiliated with, connected to, or sponsored by PopCap Games or its subsidiaries. 
+
+^:F1^LICENSE AND SITE ACCESS^:F0^
+
+PopCap Games grants you a limited license to access and make personal use of popcap.com and the web games and downloadable games offered on this site. This license does not include the right to download content other than specifically designated electronic software downloads and online game executables, nor does the license give you the right modify any content, except with express written consent of PopCap Games. This license does not include any resale or commercial use of this site or its contents; any collection and use of any product listings, descriptions, or prices; any derivative use of this site or its contents; any downloading or copying of account information for the benefit of another merchant; or any use of data mining, robots, or similar data gathering and extraction tools. This site or any portion of this site may not be reproduced, duplicated, copied, sold, resold, visited, or otherwise exploited for any commercial purpose without express written consent of PopCap Games. You may not frame or utilize framing techniques to enclose any trademark, logo, or other proprietary information (including images, text, page layout, or form) of PopCap Games and our affiliates without express written consent. You may not use any meta tags or any other "hidden text" utilizing PopCap Games’ name or trademarks without the express written consent of PopCap Games. Any unauthorized use terminates the permission or license granted by PopCap Games. You are granted a limited, revocable, and nonexclusive right to create a hyperlink to the home page of popcap.com so long as the link does not portray popcap.com, its affiliates, or their products or services in a false, misleading, derogatory, or otherwise offensive matter. You may not use any PopCap Games logo or other proprietary graphic or trademark as part of the link without express written permission. 
+
+^:F1^MULTIPLAYER GAMING SERVICE AND CONDITIONS OF USE^:F0^
+
+PopCap Games, Inc. provides its online multiplayer gaming service ("Service") to you, subject to following Conditions of Use. By selecting the "I Agree" checkbox when registering to use the Service, you accept and agree to be bound by the Conditions of Use. These Conditions of Use tell you what you can expect from the Service, and the kind of online behavior PopCap Games expects of you. The Service is always evolving, so it is important that you periodically check the most current version of our Conditions of Use at: www.popcap.com/terms.php 
+(as well as the rules and instructions in your favorite game areas) for updates and new information. All of our online multiplayer games, and other parts of our multiplayer gaming services, regardless of when they are added, are governed by these Conditions of Use.
+
+You must register to obtain a membership on the Service. When completing the registration form, you will provide true, accurate, and complete information about yourself, and maintain and promptly update this information to keep it true, accurate, and complete. If you provide any information that is untrue, inaccurate, or incomplete, or PopCap Games has reasonable grounds to suspect that the information is untrue, inaccurate, or incomplete, PopCap Games has the right to suspend or terminate your membership and access to the Service. You are responsible for obtaining access to the Service, which access may involve third party fees (such as Internet service provider charges). In addition, you must provide and are responsible for all equipment necessary to access the Service. You will receive a password and login name upon completing the Service's registration process. You are responsible for maintaining the confidentiality of your password and login name, and are responsible for all activities that occur with your password and login name. You will immediately notify PopCap Games of any unauthorized use of your membership or any other breach of security.
+
+If you use the Service, you are responsible for maintaining the confidentiality of your account and password and for restricting access to your computer, and you agree to accept responsibility for all activities that occur under your account or password. popcap.com does sell products for children, but it sells them to adults, who can purchase with a credit card. If you are under 18, you may use popcap.com only with involvement of a parent or guardian. popcap.com and its affiliates reserve the right to refuse service, terminate accounts, remove or edit content, or cancel orders in their sole discretion. 
+
+Members of the Service and other guests may generate content in chat sessions during games ("Content"). Content must not violate the Conditions of Use. PopCap Games does not pre-screen Content, but PopCap Games will have the right in their sole discretion to remove any Content that violates these Conditions. You may receive a warning from PopCap Games if your membership was responsible for posting offensive Content. If it is a serious offense or you have violated these Conditions before, PopCap Games may suspend or terminate your membership. You understand that all Content, whether publicly posted or privately transmitted, is the sole responsibility of the membership from which the Content originated. This means that you, and not PopCap Games, are entirely responsible for all Content that originates from your membership. PopCap Games does not control the Content posted through the Service and does not guarantee the accuracy, integrity, or quality of the Content. You understand that by using the Service, you may be exposed to Content that is offensive, indecent, or objectionable. PopCap Games will not be liable for any Content, including, but not limited to, any loss, damage, or harm of any kind incurred by you as a result of any Content. 
+
+You must not use the Service to: 
+
+1. transmit or otherwise make available any Content that is unlawful, harmful, threatening, abusive, harassing, tortious, defamatory, vulgar, obscene, libelous, invasive of another's privacy, hateful, or otherwise objectionable; 
+2. impersonate any person, including a PopCap Games employee or agent; 
+3. transmit or otherwise make available any Content that you do not have a right to make available; 
+4. transmit or otherwise make available any Content that infringes any patent, trademark, trade secret, copyright or other proprietary rights of any party; 
+5. transmit or otherwise make available any advertising, promotional materials, or other form of solicitation; 
+6. transmit or otherwise make available any material that contains software viruses, worms, traps, or any other malicious computer code; 
+7. disrupt the normal flow of dialogue, cause a screen to "scroll" faster than other users of the Service are able to type, or otherwise act in a manner that negatively affects other people's ability to use the Service; 
+8. violate any local, state, or national law; 
+9. harass people; or 
+10. collect or store personal data about other people using the Service. 
+
+PopCap Games may store Content indefinitely, and may also disclose Content if required to do so by law or in the good faith belief that the preservation or disclosure is reasonably necessary to: (a) comply with legal process; (b) enforce the Conditions of Use; (c) respond to claims that any Content violates the rights of third parties; or (d) protect the rights, property, or personal safety of PopCap Games, any persons using the Service, or the public.
+
+If you do post Content or submit material, and unless we indicate otherwise, you grant PopCap Games and its affiliates a nonexclusive, royalty-free, perpetual, irrevocable, and fully sublicensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display such content throughout the world in any media. You grant PopCap Games and its affiliates and sublicensees the right to use the name that you submit in connection with such content, if they choose. You represent and warrant that you own or otherwise control all of the rights to the content that you post; that the content is accurate; that use of the content you supply does not violate this policy and will not cause injury to any person or entity; and that you will indemnify PopCap Games or its affiliates for all claims resulting from content you supply. popcap.com has the right but not the obligation to monitor and edit or remove any activity or content. PopCap Games takes no responsibility and assumes no liability for any content posted by you or any third party. 
+
+^:F1^RISK OF LOSS^:F0^
+
+All items purchased from popcap.com are made pursuant to a shipment contract. This means that the risk of loss and title for such items pass to you upon our delivery to the carrier.
+
+^:F1^PRODUCT DESCRIPTIONS^:F0^
+
+popcap.com and its affiliates attempt to be as accurate as possible. However, popcap.com does not warrant that product descriptions or other content of this site is accurate, complete, reliable, current, or error-free. If a product offered by popcap.com itself is not as described, your sole remedy is to return it in unused condition. 
+
+^:F1^PRICING^:F0^
+
+With respect to items sold by popcap.com, we cannot confirm the price of an item until you order; however, we do NOT charge your credit card until after your have confirmed your billing address and consented and authorized us to verify and bill your credit card.
+
+^:F1^ONLINE AND OFFLINE PURCHASING^:F0^
+
+When conducting online purchases with popcap.com or offline purchases with PopCap Games, Inc., or PopCap International, Ltd., you must provide true, accurate, and complete information about yourself and provide non-fraudulent means of payment. If you provide any personal or financial information that is untrue, inaccurate, or incomplete, or PopCap Games has reasonable grounds to suspect that the information is untrue, inaccurate, or incomplete, PopCap Games has the right to void related financial transactions, to revoke any associated software licenses resulting from such transactions, and to refer to appropriate authorities the details of such incidents.
+
+^:F1^DISCLAIMER OF WARRANTIES AND LIMITATION OF LIABILITY^:F0^
+
+THIS SITE IS PROVIDED BY popcap.com ON AN "AS IS" AND "AS AVAILABLE" BASIS. popcap.com MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, AS TO THE OPERATION OF THIS SITE OR THE INFORMATION, CONTENT, MATERIALS, OR PRODUCTS INCLUDED ON THIS SITE. YOU EXPRESSLY AGREE THAT YOUR USE OF THIS SITE IS AT YOUR SOLE RISK. 
+
+TO THE FULL EXTENT PERMISSIBLE BY APPLICABLE LAW, popcap.com DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. popcap.com DOES NOT WARRANT THAT THIS SITE, ITS SERVERS, OR E-MAIL SENT FROM popcap.com ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. popcap.com WILL NOT BE LIABLE FOR ANY DAMAGES OF ANY KIND ARISING FROM THE USE OF THIS SITE, INCLUDING, BUT NOT LIMITED TO DIRECT, INDIRECT, INCIDENTAL, PUNITIVE, AND CONSEQUENTIAL DAMAGES. 
+
+CERTAIN STATE LAWS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES. IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE ABOVE DISCLAIMERS, EXCLUSIONS, OR LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MIGHT HAVE ADDITIONAL RIGHTS. 
+
+^:F1^APPLICABLE LAW^:F0^
+
+By visiting popcap.com, you agree that the laws of the state of Washington, without regard to principles of conflict of laws, will govern these Conditions of Use and any dispute of any sort that might arise between you and popcap.com or its affiliates. 
+
+^:F1^DISPUTES^:F0^
+
+Any dispute relating in any way to your visit to popcap.com or to products you purchase through popcap.com shall be submitted to confidential arbitration in Seattle, Washington, except that, to the extent you have in any manner violated or threatened to violate popcap.com's intellectual property rights, popcap.com may seek injunctive or other appropriate relief in any state or federal court in the state of Washington, and you consent to exclusive jurisdiction and venue in such courts. Arbitration under this agreement shall be conducted under the rules then prevailing of the American Arbitration Association. The arbitrator's award shall be binding and may be entered as a judgment in any court of competent jurisdiction. To the fullest extent permitted by applicable law, no arbitration under this Agreement shall be joined to an arbitration involving any other party subject to this Agreement, whether through class arbitration proceedings or otherwise. 
+
+^:F1^SITE POLICIES, MODIFICATION, AND SEVERABILITY^:F0^
+
+Please review our other policies, such as our Pricing Policy, posted on this site. These policies also govern your visit to popcap.com. We reserve the right to make changes to our site, policies, and these Conditions of Use at any time. If any of these conditions shall be deemed invalid, void, or for any reason unenforceable, that condition shall be deemed severable and shall not affect the validity and enforceability of any remaining condition. 
+
+^:F1^OUR ADDRESS^:F0^
+
+popcap.com, Inc. 
+2401 4th Avenue, Suite 810
+Seattle, WA 98121
+^:Lhttp://www.popcap.com^http://www.popcap.com^:^
+
+^:F1^PROCEDURE FOR MAKING CLAIMS OF COPYRIGHT INFRINGEMENT^:F0^
+
+PopCap Games and its affiliates respect the intellectual property of others. If you believe that your work has been copied in a way that constitutes copyright infringement, please provide PopCap Games with the written information specified below. Please note that this procedure is exclusively for notifying PopCap Games and its affiliates that your copyrighted material has been infringed. 
+
+An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest; 
+
+A description of the copyrighted work that you claim has been infringed upon; 
+
+A description of where the material that you claim is infringing is located on the site, including the auction ID number, if applicable;
+
+Your address, telephone number, and e-mail address; 
+
+A statement by you that you have a good-faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law;
+
+A statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf. 
+
+PopCap Games' Copyright Agent for notice of claims of copyright infringement on its site can be reached as follows: 
+
+PopCap Games
+Attention: Copyright Agent / Legal Department
+2401 4th Avenue, Suite 810
+Seattle, WA 98121
+United States of America
+fax: (206) 256-2066
