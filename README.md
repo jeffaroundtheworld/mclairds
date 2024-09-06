@@ -1,3 +1,3 @@
 # All Hail McLairds
 
-![Hotdog](/hotdog.webp)
+![Hotdog](/images/hotdog.webp)
