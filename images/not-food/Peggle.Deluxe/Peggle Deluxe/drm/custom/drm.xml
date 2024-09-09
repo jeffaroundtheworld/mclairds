@@ -1,0 +1,19 @@
+﻿<Properties>
+<Bullets id="main" width="409" font="!sys:Arial:10,bold">
+<Bullet id="Bullet1" image="custom/images/bullet1" spacing="10">Master 55 joyous levels and 10 miraculous Magic Powers!</Bullet>
+<Bullet id="Bullet2" image="custom/images/bullet2" spacing="10">Test your skills in 75 Master Challenges!</Bullet>
+<Bullet id="Bullet3" image="custom/images/bullet3" spacing="10">Face off against a friend or the computer in Duel Mode!</Bullet>
+<Bullet id="Bullet4" image="custom/images/bullet4">Save, replay and share your favorite dazzling shots!</Bullet>
+</Bullets>
+
+<String id="MessageTrialScreenPreBullet">Buy today to unlock unlimited gameplay and feverish features!</String>
+<String id="MessageExpireScreenPreBullet">Buy today to unlock unlimited gameplay and feverish features!</String>
+<String id="HeaderTimeLeftLabelSingular">CAN YOU BECOME A PEGGLE MASTER? BUY NOW!</String>
+<String id="HeaderTimeLeftLabelPlural">CAN YOU BECOME A PEGGLE MASTER? BUY NOW!</String>
+
+<String id="CopyrightDisclaimer">©2007 PopCap Games, Inc. All rights reserved. Peggle, PopCap Games and the PopCap Games logo&cr; are trademarks of PopCap Games, Inc., which may be registered in the United States and other countries.</String>
+
+<String id="ContentDescriptorHeading"></String>
+<String id="ContentDescriptors"></String>
+
+</Properties>

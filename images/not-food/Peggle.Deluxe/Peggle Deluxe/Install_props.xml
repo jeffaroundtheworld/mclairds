@@ -1,0 +1,75 @@
+<Properties>
+				
+	<!-- Installer -->
+	
+	<String id="DX_UPGRADE_TEXT">%InstallName% requires at least DirectX %MinDXVer% to run.&cr;Press OK to open a web page to download DirectX from.</String>
+	<String id="DX_UPGRADE_TITLE">DirectX %MinDXVer% Required</String>
+	
+	<String id="ABORT_DIALOG_TITLE">%InstallName% Installation Aborted!</String>
+	<String id="ABORT_DIALOG_LINE1">Aborted!</String>
+	<String id="ABORT_DIALOG_LINE2">%InstallName% has not been properly installed and will not work if you try to use it.</String>
+	<String id="ABORT_DIALOG_LINE3">Please visit http://www.popcap.com/support if you need technical assistance.</String>
+	
+	<String id="INSTALL_DIALOG_TITLE">%InstallName% Installing ...</String>
+	<String id="INSTALL_DIALOG_LINE1">Installing ...</String>
+	<String id="INSTALL_DIALOG_EXTRACTING">Extracting</String>
+	<String id="INSTALL_DIALOG_TOTAL_PROGRESS">Total Progress</String>
+			
+	<String id="LAUNCH_DIALOG_TITLE">%InstallName% Installation Complete!</String>
+	<String id="LAUNCH_DIALOG_LINE1">Finished!</String>
+	<String id="LAUNCH_DIALOG_LINE2">%InstallName% has been installed and is now ready to play!</String>
+	<String id="LAUNCH_DIALOG_LINE3">Visit http://www.popcap.com/support if you have any problems.</String>
+	<String id="LAUNCH_DIALOG_LAUNCH_CHECK">Launch game now</String>
+	
+	<String id="LICENSE_DIALOG_TITLE">%InstallName% License Agreement</String>
+	<String id="LICENSE_DIALOG_LINE1">License Agreement</String>
+	
+	<String id="OPTIONS_DIALOG_TITLE">%InstallName% Install Settings</String>
+	<String id="OPTIONS_DIALOG_LINE1">Settings</String>
+	<String id="OPTIONS_DIALOG_DIRECTORY">Directory to Store PopCap Games</String>
+	<String id="OPTIONS_DIALOG_MENU_LOCATION">Start Menu Location for PopCap Links</String>		
+	
+	<String id="WELCOME_DIALOG_TITLE">%InstallName% Installer</String>
+	<String id="WELCOME_DIALOG_LINE1">Welcome!</String>
+	<String id="WELCOME_DIALOG_LINE2">Welcome to the %InstallName% Installer.  Click Next to install with the default settings as listed below.</String>
+	<String id="WELCOME_DIALOG_DIRECTORY">Directory to Store PopCap Games:</String>	
+	<String id="WELCOME_DIALOG_MENU_LOCATION">Start Menu Location for PopCap Links:</String>	
+	
+	<String id="BUTTON_NEXT">Next &gt;</String>
+	<String id="BUTTON_BACK">&lt; Back</String>
+	<String id="BUTTON_CANCEL">Cancel</String>
+	<String id="BUTTON_DONE">Done</String>
+	<String id="BUTTON_EXIT">Exit</String>
+	<String id="BUTTON_VIEW_README">View Readme File</String>
+	<String id="BUTTON_CHANGE_SETTINGS">Change Settings</String>
+	<String id="BUTTON_BROWSE">Browse</String>
+	<String id="BUTTON_DONT_AGREE">I Don't Agree</String>
+	<String id="BUTTON_AGREE">I Agree</String>
+	<String id="BUTTON_YES">Yes</String>
+	<String id="BUTTON_NO">No</String>
+	
+	<String id="FATAL_POPUP_TITLE">%InstallName% Fatal Error!</String>
+	
+	<String id="ABORT_POPUP_TITLE">%InstallName% - Cancel Installation?</String>
+	<String id="ABORT_POPUP_TEXT">%InstallName% is not fully installed on your computer.&cr;Do you want to cancel the installation?</String>
+	
+	
+	<!-- Uninstaller -->
+	
+	<String id="UNINSTALL_POPUP_TITLE">Uninstall %InstallName%?</String>
+	<String id="UNINSTALL_POPUP_TEXT">Are you sure you want to uninstall %InstallName%?</String>
+	
+	<String id="UNINSTALL_DIALOG_TITLE">Uninstalling %InstallName% ...</String>
+	
+	<String id="UNINSTALL_SUCCESS_POPUP_TITLE">%InstallName% Uninstall Successful</String>
+	<String id="UNINSTALL_SUCCESS_POPUP_TEXT">%InstallName% has been successfully uninstalled.</String>
+	
+	<String id="UNINSTALL_FAILED_POPUP_TITLE">%InstallName% Uninstall Failed!</String>
+	<String id="UNINSTALL_FAILED_POPUP_TEXT">%InstallName% was not able to be uninstalled.</String>
+	
+	<String id="UNINSTALL_ENSURE_NOT_RUNNING_TITLE">%InstallName% Uninstall Warning</String>
+	<String id="UNINSTALL_ENSURE_NOT_RUNNING_TEXT">Please make sure %InstallName% is not running before continuing.</String>
+	
+	<String id="UNINSTALL_LEAVE_USER_DATA">Leave configuration and user data</String>
+	
+</Properties>
