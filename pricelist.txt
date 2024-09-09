@@ -1,9 +1,11 @@
-Burger
+Hamburger - $7.25
+Burger - 8.99
 Poutine
 Candy Apple - $4.25
-Ice Cream Sandwich
-Chicken Pot Pie
-Mouse
+Ice Cream Sandwich - $7.45
+Mouse - 112.12
+Chicken Pot Pie - 9.49
 Russian School Lunch
 Gyoza
 Pancakes
+Mac and Cheese - $10.00
