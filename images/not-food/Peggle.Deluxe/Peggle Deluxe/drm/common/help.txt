@@ -1,0 +1,8 @@
+^:ACF1^^CC3300^HELP INFORMATION^000000^^:ALF0^
+
+For help playing the game,
+refer to the ^:F1L!prog:Str_ReadmeURL^Readme^:^^:F0^
+
+For other questions including purchasing,
+please ^:F1L!prog:Str_CustomerSupportURL^Contact Customer Support^:^^:F0^
+
