@@ -2,7 +2,7 @@ Burger
 Poutine
 Candy Apple 
 Ice Cream Sandwich
-Chicken Pot Pie
+Chicken Pot Pie - 9.49
 Mouse
 Russian School Lunch
 Gyoza
