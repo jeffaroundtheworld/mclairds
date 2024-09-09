@@ -1,11 +1,11 @@
 Hamburger - $7.25
 Burger - 8.99
-Poutine
+Poutine - $7.50
 Candy Apple - $4.25
 Ice Cream Sandwich - $7.45
 Mouse - 112.12
 Chicken Pot Pie - 9.49
-Russian School Lunch
-Gyoza
+Russian School Lunch [suggestion] - $2
+Gyoza 16 pcs - $16
 Pancakes
 Mac and Cheese - $10.00
