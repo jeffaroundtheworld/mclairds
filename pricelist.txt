@@ -7,3 +7,4 @@ Mouse - 112.12
 Russian School Lunch
 Gyoza
 Pancakes
+... -$1.99
