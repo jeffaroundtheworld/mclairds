@@ -1,6 +1,6 @@
 Hamburger - $7.25
 Burger - 8.99
-Poutine $7.50
+Poutine - $7.50
 Candy Apple - $4.25
 Ice Cream Sandwich - $7.45
 <<<<<<< HEAD
