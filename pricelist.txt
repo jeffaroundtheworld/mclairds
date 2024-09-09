@@ -1,6 +1,7 @@
+Hamburger - $7.25
 Burger - 8.99
 Poutine
-Candy Apple 
+Candy Apple - $4.25
 Ice Cream Sandwich
 <<<<<<< HEAD
 Chicken Pot Pie
