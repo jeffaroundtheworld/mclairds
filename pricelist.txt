@@ -1,9 +1,9 @@
 Burger - $7.25
 Poutine
-Candy Apple
+Candy Apple 
 Ice Cream Sandwich
 Chicken Pot Pie
-Mouse
+Mouse - 112.12
 Russian School Lunch
 Gyoza
 Pancakes
