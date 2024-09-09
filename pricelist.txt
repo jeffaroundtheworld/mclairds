@@ -1,9 +1,16 @@
-Burger
+Hamburger - $7.25
+Burger - 8.99
 Poutine
-Candy Apple
+Candy Apple - $4.25
 Ice Cream Sandwich
+<<<<<<< HEAD
 Chicken Pot Pie
+Mouse - 112.12
+=======
+Chicken Pot Pie - 9.49
 Mouse
+>>>>>>> ed3d18faf7d6528a72038c8e2d6b2757d40bfbdd
 Russian School Lunch
 Gyoza
 Pancakes
+... -$1.99
