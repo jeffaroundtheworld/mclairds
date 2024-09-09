@@ -1,6 +1,7 @@
-Burger - $7.25
+Hamburger - $7.25
+Burger - 8.99
 Poutine
-Candy Apple 
+Candy Apple - $4.25
 Ice Cream Sandwich
 Chicken Pot Pie
 Mouse - 112.12
