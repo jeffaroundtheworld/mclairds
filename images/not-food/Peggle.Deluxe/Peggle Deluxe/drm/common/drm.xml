@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<Properties>
+	<Layout screen="APScreen">
+		<Image x="0" y="0" src="common/images/ecomm_wrapper_background_centered" />
+		<Image x="395" y="74" halign="center" valign="center" src="logo" />
+		<Text halign="right" valign="center" x="22" y="233" width="239" height="18" color="#000000" font="!sys:Arial:9,bold" id="OrderNumber" />
+		<Text halign="center" valign="center" x="125" y="154" width="388" height="20" color="#CC0000" font="!sys:Arial:12,bold" id="HeaderAPScreen" />
+		<Text halign="center" valign="center" x="36" y="196" width="571" height="18" color="#FF6600" font="!sys:Arial:9,bold" id="MessageAPScreen" />
+		<Text halign="center" valign="center" x="0" y="455" width="640" height="25" color="#CCCCCC" font="!sys:Arial:8" spacing="10" id="CopyrightDisclaimer" />
+		<Text halign="center" valign="center" x="95" y="368" width="453" height="18" color="#CC0000" font="!sys:Arial:9,bold" id="!prog:gScreen.mError" />
+		<Button id="Cancel" x="114" y="278" normal="common/images/btn_cancel" over="common/images/btn_cancel2" applyMask="common/images/btn_mask" function="Cancel" />
+		<Button id="Register" x="321" y="278" normal="common/images/btn_register" over="common/images/btn_register2" applyMask="common/images/btn_mask" function="Register" />
+		<Button id="Help" x="453" y="423" normal="common/images/btn_help" over="common/images/btn_help2" label="Help" font="!sys:Arial:9" function="ShowHelp" />
+		<Button id="Privacy" x="499" y="423" normal="common/images/btn_privacy" over="common/images/btn_privacy2" label="Privacy" font="!sys:Arial:9" function="ShowPrivacy" />
+		<Button id="Security" x="555" y="423" normal="common/images/btn_security" over="common/images/btn_security2" label="Security" font="!sys:Arial:9" function="ShowSecurity" />
+		<Button id="BBB" x="22" y="372" normal="common/images/bbb" function="ShowBBB" />
+		<Link id="ResendReceipt" x="319" y="410" label="Lost Your Email Receipt?" font="!sys:Arial:9,bold" color="#003399" color_over="#FF6600" function="ResendReceipt" />
+		<Link id="ManualAP" x="324" y="434" label="Enter the Registration Key Manually" font="!sys:Arial:9,bold" color="#003399" color_over="#FF6600" function="EnterRegKey" />
+	</Layout>
+
+	<Layout screen="ConnectBegin">
+		<Image x="0" y="0" src="common/images/ecomm_wrapper_background_centered" />
+		<Image x="395" y="74" halign="center" valign="center" src="logo" />
+		<Image x="30" y="200" src="common/images/icon_connected" />
+		<Text halign="center" valign="center" x="125" y="154" width="388" height="20" color="#CC0000" font="!sys:Arial:12,bold" id="!prog:gConnectBegin_Header" />
+		<Text halign="center" valign="center" x="58" y="196" width="524" height="18" color="#FF6600" font="!sys:Arial:9,bold" id="!prog:gConnectBegin_Message" />
+		<Text halign="center" valign="center" x="0" y="455" width="640" height="25" color="#CCCCCC" font="!sys:Arial:8" spacing="10" id="CopyrightDisclaimer" />
+		<Text halign="center" valign="center" x="25" y="274" width="591" height="66" color="#000000" font="!sys:Arial:9,bold" id="!prog:gConnectBegin_Details" />
+		<Text halign="center" valign="center" x="84" y="369" width="490" height="18" color="#000000" font="!sys:Arial:9,bold" id="!prog:gConnectBegin_ButtonInfo" />
+		<Button id="Cancel" x="123" y="394" normal="common/images/btn_cancel" over="common/images/btn_cancel2" applyMask="common/images/btn_mask" function="Cancel" />
+		<Button id="Retry" x="330" y="394" normal="common/images/btn_retry" over="common/images/btn_retry2" applyMask="common/images/btn_mask" function="Retry" />
+		<Button id="BBB" x="22" y="372" normal="common/images/bbb" function="ShowBBB" />
+	</Layout>
+
+	<Layout screen="ConnectCheck">
+		<Image x="0" y="0" src="common/images/ecomm_wrapper_background_centered" />
+		<Image x="395" y="74" halign="center" valign="center" src="logo" />
+		<Image x="30" y="200" src="common/images/icon_connecting" />
+		<Text halign="center" valign="center" x="125" y="154" width="388" height="20" color="#CC0000" font="!sys:Arial:12,bold" id="!prog:gConnectCheck_Header" />
+		<Text halign="center" valign="center" x="25" y="196" width="592" height="36" color="#FF6600" font="!sys:Arial:9,bold" id="!prog:gConnectCheck_Message" />
+		<Text halign="center" valign="center" x="0" y="455" width="640" height="25" color="#CCCCCC" font="!sys:Arial:8" spacing="10" id="CopyrightDisclaimer" />
+		<Button id="BBB" x="22" y="372" normal="common/images/bbb" function="ShowBBB" />
+	</Layout>
+
+	<Layout screen="EndScreen">
+		<Image x="0" y="0" src="common/images/ecomm_wrapper_background" />
+		<Image x="114" y="246" halign="center" valign="center" src="game" />
+		<Image x="395" y="74" halign="center" valign="center" src="logo" />
+		<Image x="418" y="266" halign="center" valign="center" src="!prog:return gBulletManager:GetImage('main')" />
+		<Image x="123" y="378" src="common/images/buyitnowfor" />
+		<Image x="162" y="420" halign="center" valign="center" src="price" />
+		<Text halign="center" valign="center" x="218" y="192" width="399" height="18" color="#003399" font="FONT_ARIAL9BOLD" id="MessageExpireScreenPreBullet" />
+		<Text halign="center" valign="center" x="218" y="325" width="399" height="18" color="#003399" font="FONT_ARIAL9BOLD" id="MessageExpireScreenPostBullet" />
+		<Text halign="center" valign="center" x="218" y="157" width="399" height="21" color="#CC0000" font="!sys:Arial:10,bold" id="!prog:gScreen:GetTimeLeftString()" />
+		<Text halign="center" valign="center" x="0" y="455" width="640" height="25" color="#CCCCCC" font="!sys:Arial:8" spacing="10" id="CopyrightDisclaimer" />
+		<Button id="Finish" x="213" y="370" normal="common/images/btn_finish" over="common/images/btn_finish2" applyMask="common/images/btn_mask" function="Finish" />
+		<Button id="BuyNow" x="420" y="370" normal="common/images/btn_buynow" over="common/images/btn_buynow2" applyMask="common/images/btn_mask" function="BuyNow" />
+		<Button id="Help" x="453" y="423" normal="common/images/btn_help" over="common/images/btn_help2" label="Help" font="!sys:Arial:9" function="ShowHelp" />
+		<Button id="Privacy" x="499" y="423" normal="common/images/btn_privacy" over="common/images/btn_privacy2" label="Privacy" font="!sys:Arial:9" function="ShowPrivacy" />
+		<Button id="Security" x="555" y="423" normal="common/images/btn_security" over="common/images/btn_security2" label="Security" font="!sys:Arial:9" function="ShowSecurity" />
+		<Button id="BBB" x="22" y="372" normal="common/images/bbb" function="ShowBBB" />
+		<Link id="APLink" x="348" y="434" label="Already purchased this game?" font="!sys:Arial:9,bold" color="#003399" color_over="#FF6600" function="APScreen" />
+		<Button id="ESRB" x="70" y="372" normal="esrb" function="ShowESRB" />
+	</Layout>
+
+	<Layout screen="ExpireScreen">
+		<Image x="0" y="0" src="common/images/ecomm_wrapper_background" />
+		<Image x="114" y="224" halign="center" valign="center" src="!prog:return GetDrmSS()" />
+		<Image x="114" y="245" halign="center" valign="center" src="common/images/ssframe" />
+		<Image x="395" y="74" halign="center" valign="center" src="logo" />
+		<Image x="418" y="266" halign="center" valign="center" src="!prog:return gBulletManager:GetImage('main')" />
+		<Image x="123" y="378" src="common/images/buyitnowfor" />
+		<Image x="162" y="420" halign="center" valign="center" src="price" />
+		<Image x="213" y="370" applyMask="common/images/btn_mask" src="common/images/btn_play3" />
+		<Text halign="center" valign="center" x="218" y="192" width="399" height="18" color="#003399" font="FONT_ARIAL9BOLD" id="MessageExpireScreenPreBullet" />
+		<Text halign="center" valign="center" x="218" y="325" width="399" height="18" color="#003399" font="FONT_ARIAL9BOLD" id="MessageExpireScreenPostBullet" />
+		<Text halign="center" valign="center" x="218" y="157" width="399" height="21" color="#CC0000" font="!sys:Arial:12,bold" id="HeaderExpireTimeLeftLabel" />
+		<Text halign="center" valign="center" x="0" y="455" width="640" height="25" color="#CCCCCC" font="!sys:Arial:8" spacing="10" id="CopyrightDisclaimer" />
+		<Button id="BuyNow" x="420" y="370" normal="common/images/btn_buynow" over="common/images/btn_buynow2" applyMask="common/images/btn_mask" function="BuyNow" />
+		<Button id="Help" x="453" y="423" normal="common/images/btn_help" over="common/images/btn_help2" label="Help" font="!sys:Arial:9" function="ShowHelp" />
+		<Button id="Privacy" x="499" y="423" normal="common/images/btn_privacy" over="common/images/btn_privacy2" label="Privacy" font="!sys:Arial:9" function="ShowPrivacy" />
+		<Button id="Security" x="556" y="423" normal="common/images/btn_security" over="common/images/btn_security2" label="Security" font="!sys:Arial:9" function="ShowSecurity" />
+		<Button id="BBB" x="22" y="372" normal="common/images/bbb" function="ShowBBB" />
+		<Link id="APLink" x="348" y="434" label="Already purchased this game?" font="!sys:Arial:9,bold" color="#003399" color_over="#FF6600" function="APScreen" />
+		<Button id="ESRB" x="70" y="372" normal="esrb" function="ShowESRB" />
+	</Layout>
+
+	<Layout screen="ManualAPScreen">
+		<Image x="0" y="0" src="common/images/ecomm_wrapper_background_centered" />
+		<Image x="395" y="74" halign="center" valign="center" src="logo" />
+		<Text halign="right" valign="center" x="22" y="233" width="239" height="18" color="#000000" font="!sys:Arial:9,bold" id="RegistrationKey" />
+		<Text halign="center" valign="center" x="125" y="154" width="388" height="20" color="#CC0000" font="!sys:Arial:12,bold" id="HeaderManualAPScreen" />
+		<Text halign="center" valign="center" x="36" y="196" width="571" height="18" color="#FF6600" font="!sys:Arial:9,bold" id="MessageManualAPScreen" />
+		<Text halign="center" valign="center" x="0" y="455" width="640" height="25" color="#CCCCCC" font="!sys:Arial:8" spacing="10" id="CopyrightDisclaimer" />
+		<Text halign="center" valign="center" x="95" y="368" width="453" height="18" color="#CC0000" font="!sys:Arial:9,bold" id="!prog:gScreen.mError" />
+		<Button id="Cancel" x="114" y="278" normal="common/images/btn_cancel" over="common/images/btn_cancel2" applyMask="common/images/btn_mask" function="Cancel" />
+		<Button id="Register" x="321" y="278" normal="common/images/btn_register" over="common/images/btn_register2" applyMask="common/images/btn_mask" function="Register" />
+		<Button id="Help" x="453" y="423" normal="common/images/btn_help" over="common/images/btn_help2" label="Help" font="!sys:Arial:9" function="ShowHelp" />
+		<Button id="Privacy" x="499" y="423" normal="common/images/btn_privacy" over="common/images/btn_privacy2" label="Privacy" font="!sys:Arial:9" function="ShowPrivacy" />
+		<Button id="Security" x="555" y="423" normal="common/images/btn_security" over="common/images/btn_security2" label="Security" font="!sys:Arial:9" function="ShowSecurity" />
+		<Button id="BBB" x="22" y="372" normal="common/images/bbb" function="ShowBBB" />
+		<Link id="ResendReceipt" x="319" y="434" label="Lost Your Email Receipt?" font="!sys:Arial:9,bold" color="#003399" color_over="#FF6600" function="ResendReceipt" />
+	</Layout>
+
+	<Layout screen="RegFailed">
+		<Image x="0" y="0" src="common/images/ecomm_wrapper_background_centered" />
+		<Image x="395" y="74" halign="center" valign="center" src="logo" />
+		<Text halign="center" valign="center" x="125" y="154" width="388" height="20" color="#CC0000" font="!sys:Arial:12,bold" id="!prog:gErrorScreen_Header" />
+		<Text halign="center" valign="center" x="25" y="196" width="592" height="36" color="#FF6600" font="!sys:Arial:9,bold" id="!prog:gErrorScreen_Message" />
+		<Text halign="center" valign="center" x="0" y="455" width="640" height="25" color="#CCCCCC" font="!sys:Arial:8" spacing="10" id="CopyrightDisclaimer" />
+		<Text halign="center" valign="center" x="25" y="233" width="592" height="110" color="#000000" font="!sys:Arial:9" id="!prog:gErrorScreen_Details" />
+		<Button id="Retry" x="114" y="370" normal="common/images/btn_retry" over="common/images/btn_retry2" applyMask="common/images/btn_mask" function="Retry" />
+		<Button id="Cancel" x="321" y="370" normal="common/images/btn_cancel" over="common/images/btn_cancel2" applyMask="common/images/btn_mask" function="Cancel" />
+		<Button id="Help" x="453" y="423" normal="common/images/btn_help" over="common/images/btn_help2" label="Help" font="!sys:Arial:9" function="ShowHelp" />
+		<Button id="Privacy" x="499" y="423" normal="common/images/btn_privacy" over="common/images/btn_privacy2" label="Privacy" font="!sys:Arial:9" function="ShowPrivacy" />
+		<Button id="Security" x="555" y="423" normal="common/images/btn_security" over="common/images/btn_security2" label="Security" font="!sys:Arial:9" function="ShowSecurity" />
+		<Button id="BBB" x="22" y="372" normal="common/images/bbb" function="ShowBBB" />
+	</Layout>
+
+	<Layout screen="RegSucceeded">
+		<Image x="0" y="0" src="common/images/ecomm_wrapper_background_centered" />
+		<Image x="395" y="74" halign="center" valign="center" src="logo" />
+		<Image x="30" y="200" src="common/images/icon_complete" />
+		<Text halign="center" valign="center" x="125" y="154" width="388" height="20" color="#CC0000" font="!sys:Arial:12,bold" id="HeaderRegSucceeded" />
+		<Text halign="center" valign="center" x="25" y="196" width="592" height="36" color="#FF6600" font="!sys:Arial:9,bold" id="MessageRegSucceeded" />
+		<Text halign="center" valign="center" x="0" y="455" width="640" height="25" color="#CCCCCC" font="!sys:Arial:8" spacing="10" id="CopyrightDisclaimer" />
+		<Text halign="center" valign="center" x="25" y="271" width="592" height="66" color="#000000" font="!sys:Arial:9,bold" id="DetailsRegSucceeded" />
+		<Button id="Continue" x="213" y="370" normal="common/images/btn_continue" over="common/images/btn_continue2" applyMask="common/images/btn_mask" function="Continue" />
+		<Button id="BBB" x="22" y="372" normal="common/images/bbb" function="ShowBBB" />
+	</Layout>
+
+	<Layout screen="ResendReceiptScreen">
+		<Image x="0" y="0" src="common/images/ecomm_wrapper_background_centered" />
+		<Image x="395" y="74" halign="center" valign="center" src="logo" />
+		<Text halign="right" valign="center" x="22" y="241" width="239" height="18" color="#000000" font="!sys:Arial:9,bold" id="OrderEmailAddress" />
+		<Text halign="right" valign="center" x="22" y="271" width="239" height="18" color="#000000" font="!sys:Arial:9,bold" id="LastFourCCDigits" />
+		<Text halign="center" valign="center" x="125" y="154" width="388" height="20" color="#CC0000" font="!sys:Arial:12,bold" id="HeaderResendReceiptScreen" />
+		<Text halign="center" valign="center" x="25" y="196" width="592" height="36" color="#FF6600" font="!sys:Arial:9,bold" id="MessageResendReceiptScreen" />
+		<Text halign="center" valign="center" x="0" y="455" width="640" height="25" color="#CCCCCC" font="!sys:Arial:8" spacing="10" id="CopyrightDisclaimer" />
+		<Text halign="center" valign="center" x="95" y="368" width="453" height="18" color="#CC0000" font="!sys:Arial:9,bold" id="!prog:gScreen.mError" />
+		<Button id="Cancel" x="114" y="300" normal="common/images/btn_cancel" over="common/images/btn_cancel2" applyMask="common/images/btn_mask" function="Cancel" />
+		<Button id="SendReceipt" x="321" y="300" normal="common/images/btn_sendreceipt" over="common/images/btn_sendreceipt2" applyMask="common/images/btn_mask" function="SendReceipt" />
+		<Button id="Help" x="453" y="423" normal="common/images/btn_help" over="common/images/btn_help2" label="Help" font="!sys:Arial:9" function="ShowHelp" />
+		<Button id="Privacy" x="499" y="423" normal="common/images/btn_privacy" over="common/images/btn_privacy2" label="Privacy" font="!sys:Arial:9" function="ShowPrivacy" />
+		<Button id="Security" x="555" y="423" normal="common/images/btn_security" over="common/images/btn_security2" label="Security" font="!sys:Arial:9" function="ShowSecurity" />
+		<Button id="BBB" x="22" y="372" normal="common/images/bbb" function="ShowBBB" />
+	</Layout>
+
+	<Layout screen="TrialScreen">
+		<Image x="0" y="0" src="common/images/ecomm_wrapper_background" />
+		<Image x="114" y="246" halign="center" valign="center" src="game" />
+		<Image x="395" y="74" halign="center" valign="center" src="logo" />
+		<Image x="418" y="266" halign="center" valign="center" src="!prog:return gBulletManager:GetImage('main')" />
+		<Image x="123" y="378" src="common/images/buyitnowfor" />
+		<Image x="162" y="420" halign="center" valign="center" src="price" />
+		<Text halign="center" valign="center" x="218" y="192" width="399" height="18" color="#003399" font="FONT_ARIAL9BOLD" id="MessageTrialScreenPreBullet" />
+		<Text halign="center" valign="center" x="218" y="325" width="399" height="18" color="#003399" font="FONT_ARIAL9BOLD" id="MessageTrialScreenPostBullet" />
+		<Text halign="center" valign="center" x="218" y="157" width="399" height="21" color="#CC0000" font="!sys:Arial:10,bold" id="!prog:gScreen:GetTimeLeftString()" />
+		<Text halign="center" valign="center" x="0" y="455" width="640" height="25" color="#CCCCCC" font="!sys:Arial:8" spacing="10" id="CopyrightDisclaimer" />
+		<Button id="Play" x="213" y="370" normal="common/images/btn_play" over="common/images/btn_play2" applyMask="common/images/btn_mask" function="Play" />
+		<Button id="BuyNow" x="420" y="370" normal="common/images/btn_buynow" over="common/images/btn_buynow2" applyMask="common/images/btn_mask" function="BuyNow" />
+		<Button id="Help" x="453" y="423" normal="common/images/btn_help" over="common/images/btn_help2" label="Help" font="!sys:Arial:9" function="ShowHelp" />
+		<Button id="Privacy" x="499" y="423" normal="common/images/btn_privacy" over="common/images/btn_privacy2" label="Privacy" font="!sys:Arial:9" function="ShowPrivacy" />
+		<Button id="Security" x="556" y="423" normal="common/images/btn_security" over="common/images/btn_security2" label="Security" font="!sys:Arial:9" function="ShowSecurity" />
+		<Button id="BBB" x="22" y="372" normal="common/images/bbb" function="ShowBBB" />
+		<Link id="APLink" x="348" y="434" label="Already purchased this game?" font="!sys:Arial:9,bold" color="#003399" color_over="#FF6600" function="APScreen" />
+		<Button id="ESRB" x="70" y="372" normal="esrb" function="ShowESRB" />
+	</Layout>
+
+	<String id="BBBURL">http://www.bbbonline.org/cks.asp?id=10301231744429255</String>
+	<String id="ButtonInfoBuyBegin">Cancel to exit this purchase screen or Retry to begin the purchase process again.</String>
+	<String id="ButtonInfoResendReceiptBegin">&#x00;</String>
+	<String id="ConnectCheckURL">Str_StoreURL .. "wrapper_connect.txt?n=" .. math.random(1, 100000)</String>
+	<String id="CopyrightDisclaimer">© 2000-2006 PopCap Games, Inc. All rights reserved.&cr;PopCap, PopCap Games and Zuma are registered trademarks of PopCap Games, Inc.</String>
+	<String id="CustomerSupportURL">http://www.popcap.com/support</String>
+	<String id="DetailsBuyBegin">After completing your purchase on the PopCap web site and receiving your&cr;Registration Key, the registration process should complete automatically.&cr;&cr;If this registration process does not complete, please ^:id=ManualAP,label=Enter the Registration Key Manually,font=!sys:Arial:9\,bold,color=#003399,color_over=#FF6600,function=EnterRegKey:^</String>
+	<String id="DetailsBuyConnectFail">You need to access the PopCap web site using an active internet connection in order to continue. Please verify that your computer is online and can access the internet - typically through a dial-up modem or network card. Security software or firewalls that block internet access may also need to be set to allow this game access to the internet. Once your computer is online and the PopCap web site is accessible, please restart the purchase process.</String>
+	<String id="DetailsRegBegin">If the PopCap web site has been launched and has successfully provided your&cr;Registration Key, this registration process should complete automatically.&cr;&cr;If this process does not complete, please Retry or ^:id=ManualAP,label=Enter the Registration Key Manually,font=!sys:Arial:9\,bold,color=#003399,color_over=#FF6600,function=EnterRegKey:^</String>
+	<String id="DetailsRegConnectFail">You need to access the PopCap web site using an active internet connection in order to continue. Please verify that your computer is online and can access the internet - typically through a dial-up modem or network card. Security software or firewalls that block internet access may also need to be set to allow this game access to the internet. Once your computer is online and the PopCap web site is accessible, please restart the purchase process.</String>
+	<String id="DetailsRegSucceeded">Thanks for purchasing and registering your PopCap game!</String>
+	<String id="DetailsResendReceiptBegin">If the PopCap web site has been launched and has indicated that your order receipt email&cr;will be resent, please submit the info you receive here: ^:id=APLink,label=Already purchased this game?,font=!sys:Arial:9\,bold,color=#003399,color_over=#FF6600,function=APScreen:^&cr;&cr;If you experience difficulties, please Retry or ^:id=APLink,label=Contact Customer Support,font=!sys:Arial:9\,bold,color=#003399,color_over=#FF6600,function=ContactCustomerSupport:^</String>
+	<String id="DetailsResendReceiptConnectFail">You need to access the PopCap web site using an active internet connection in order to continue. Please verify that your computer is online and can access the internet - typically through a dial-up modem or network card. Security software or firewalls that block internet access may also need to be set to allow this game access to the internet. Once your computer is online and the PopCap web site is accessible, please restart the purchase process.</String>
+	<String id="ESRBURL">http://www.esrb.org/ratings/ratings_guide.jsp#symbols</String>
+	<String id="EditFont">FONT_ARIAL9BOLD</String>
+	<String id="ErrorAP">Please enter a valid Order Number</String>
+	<String id="ErrorLastFourCC">Please enter valid Credit Card Digits</String>
+	<String id="ErrorManualAP">Please enter a valid Registration Key</String>
+	<String id="ErrorOrderEmail">Please enter a valid Order Email Address</String>
+	<String id="HeaderAPScreen">ENTER YOUR PURCHASE INFORMATION</String>
+	<String id="HeaderBuyBegin">PURCHASE AND REGISTRATION IN PROGRESS</String>
+	<String id="HeaderBuyConnect">LAUNCHING THE POPCAP WEB SITE</String>
+	<String id="HeaderBuyConnectFail">GAME PURCHASE CANNOT PROCEED</String>
+	<String id="HeaderExpireTimeLeftLabel">YOUR 60-MINUTE TRIAL IS OVER.</String>
+	<String id="HeaderManualAPScreen">ENTER YOUR REGISTRATION INFORMATION</String>
+	<String id="HeaderPurchaseScreen">THANK YOU FOR PURCHASING</String>
+	<String id="HeaderRegBegin">REGISTRATION IN PROGRESS</String>
+	<String id="HeaderRegConnect">LAUNCHING THE POPCAP WEB SITE</String>
+	<String id="HeaderRegConnectFail">REGISTRATION CANNOT PROCEED</String>
+	<String id="HeaderRegFailed">REGISTRATION FAILED</String>
+	<String id="HeaderRegSucceeded">CONGRATULATIONS!</String>
+	<String id="HeaderResendReceiptBegin">ORDER RECEIPT RETRIEVAL IN PROGRESS</String>
+	<String id="HeaderResendReceiptConnect">LAUNCHING THE POPCAP WEB SITE</String>
+	<String id="HeaderResendReceiptConnectFail">REQUEST TO RESEND RECEIPT FAILED</String>
+	<String id="HeaderResendReceiptScreen">RESEND YOUR ORDER RECEIPT INFORMATION</String>
+	<String id="HeaderTimeLeftLabelPlural">YOU ONLY HAVE %d MINUTES OF FREE GAMEPLAY LEFT!</String>
+	<String id="HeaderTimeLeftLabelSingular">YOU ONLY HAVE %d MINUTE OF FREE GAMEPLAY LEFT!</String>
+	<String id="Help">Help</String>
+	<String id="LastFourCCDigits">Last Four Credit Card Digits:</String>
+	<String id="MessageAPScreen">Register the game using the Order Number on your web site order receipt or email receipt.</String>
+	<String id="MessageBuyBegin">The purchase process has begun on the PopCap web site.</String>
+	<String id="MessageBuyConnect">Please wait as you connect with the PopCap web site in your browser.</String>
+	<String id="MessageBuyConnectFail">An error occurred while connecting to the PopCap web site to purchase the game.</String>
+	<String id="MessageEndScreenPostBullet">No CD or Download necessary. It's easy!</String>
+	<String id="MessageEndScreenPreBullet">Buy the game today before your 60-minute trial expires!</String>
+	<String id="MessageExpireScreenPostBullet">No CD or Download necessary. It's easy!</String>
+	<String id="MessageExpireScreenPreBullet">Buy the game today to keep playing!</String>
+	<String id="MessageExpireScreenshot">Buy the game to jump back into play!</String>
+	<String id="MessageManualAPScreen">Copy the Registration Key from the PopCap web site or email receipt and paste it below.</String>
+	<String id="MessagePurchaseScreen">Please choose Continue to finish registering your game.</String>
+	<String id="MessageRegBegin">Your order information is being retrieved from the PopCap web site.</String>
+	<String id="MessageRegConnect">Please wait as you connect with the PopCap web site in your browser.</String>
+	<String id="MessageRegConnectFail">An error occurred while connecting to the PopCap web site for registration.</String>
+	<String id="MessageRegFailed">You have not successfully registered and unlocked your game.</String>
+	<String id="MessageRegSucceeded">You have successfully registered and unlocked this game.</String>
+	<String id="MessageResendReceiptBegin">Your information is being submitted to the PopCap web site for processing.</String>
+	<String id="MessageResendReceiptConnect">Please wait as you connect with the PopCap web site in your browser.</String>
+	<String id="MessageResendReceiptConnectFail">An error occurred while connecting to the PopCap web site to retrieve your receipt information.</String>
+	<String id="MessageResendReceiptScreen">Enter the email address and the last four digits of the credit card from your original order.&cr;The card numbers are for verification only. Your receipt will be resent and you will NOT be charged.</String>
+	<String id="MessageTrialScreenPostBullet">No CD or Download necessary. It's easy!</String>
+	<String id="MessageTrialScreenPreBullet">Buy the game today before your 60-minute trial expires!</String>
+	<String id="OrderEmailAddress">Order Email Address:</String>
+	<String id="OrderNumber">Order Number:</String>
+	<String id="Privacy">Privacy</String>
+	<String id="ReadmeURL">readme.html</String>
+	<String id="RegistrationKey">Registration Key:</String>
+	<String id="Security">Security</String>
+	<String id="StoreURL">http://store.popcap.com/</String>
+	<String id="TextletFont0">!sys:Arial:9</String>
+	<String id="TextletFont1">!sys:Arial:9,bold</String>
+	<String id="TextletHeaderFont">FONT_ARIAL12BOLD</String>
+	<String id="TooltipFont">!sys:Arial:9,bold</String>
+	<String id="TooltipFontEx">!sys:Arial:9</String>
+</Properties>
