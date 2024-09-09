@@ -1,6 +1,6 @@
 Burger
 Poutine
-Candy Apple
+Candy Apple -$5.25
 Ice Cream Sandwich
 Chicken Pot Pie
 Mouse
