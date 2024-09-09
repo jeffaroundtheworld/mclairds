@@ -18,3 +18,5 @@ Mac and Cheese - $10.00
 =======
 ... -$1.99
 >>>>>>> 02e8fa55e62b7b7f72e0fd7945e2978f44fa77d1
+pizza $ 4.00
+Naniamo bar $1.50
