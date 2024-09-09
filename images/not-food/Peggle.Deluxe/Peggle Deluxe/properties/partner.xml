@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Properties>
+  <Boolean id="NoReg">true</Boolean>
+  <Boolean id="DontUpdate">false</Boolean>
+  <Boolean id="DefaultWindowed">false</Boolean>
+  <String id="ProdName">Peggle</String>
+  <String id="DisplayName">Peggle Deluxe</String>
+  <String id="Offering">82</String>
+  <String id="RegistryKey">PopCap\Peggle</String>
+  <Integer id="Height">480</Integer>
+  <Integer id="Width">640</Integer>
+  <Boolean id="VistaCompliant">true</Boolean>
+
+  <String id="InstallTag">PEG_60TRAILER_DEFAULT</String>
+  <String id="MarketingMode">60Normal</String>
+  <Boolean id="AllowDRMLocking">true</Boolean>
+  <Boolean id="AllowDRMTiming">true</Boolean>
+  <Boolean id="CheckActivity">false</Boolean>
+</Properties>
