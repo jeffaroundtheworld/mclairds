@@ -9,11 +9,9 @@ Russian School Lunch [suggestion] - $2.00
 <<<<<<< Updated upstream
 Gyoza 16 pcs - $16.00
 Pancakes - $6.25
-=======
 Gyoza 16 pcs - $16.16
 Pancakes
->>>>>>> Stashed changes
 Mac and Cheese - $10.00
-Pizza - $ 4.00
+Pizza - $4.00
 Naniamo bar - $1.50
 
